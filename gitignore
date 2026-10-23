@@ -1,0 +1,6 @@
+.env
+__pycache__/
+venv/
+*.pyc
+auth/
+.DS_Store￼Enter
